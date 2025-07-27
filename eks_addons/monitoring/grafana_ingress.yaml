@@ -17,7 +17,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: grafana.dominionsystem.org
+  - host: grafana.dominionsystemdirect.com
     http:
       paths:
       - path: /
