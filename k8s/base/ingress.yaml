@@ -14,7 +14,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: app.dominionsystem.org
+  - host: dominionsystemdirect.com
     http:
       paths:
       - path: /
