@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # === CONFIGURATION ===
-AWS_ACCOUNT_ID="999568710647"
+AWS_ACCOUNT_ID="571600873366"
 AWS_REGION="us-east-2"
 ECR_REPO_NAME="fintech-app"
 EKS_NAMESPACE="fintech"
