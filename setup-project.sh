@@ -5,7 +5,7 @@ AWS_ACCOUNT_ID="571600873366"
 AWS_REGION="us-east-2"
 ECR_REPO_NAME="fintech-app"
 EKS_NAMESPACE="fintech"
-DOMAIN_NAME="dominionsystem.org"
+DOMAIN_NAME="dominionsystemdirect.com"
 APP_PORT=8080
 
 # === GO TO PROJECT ROOT ===
